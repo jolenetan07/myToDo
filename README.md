@@ -16,8 +16,12 @@ This is a simple Todo List App. It is a cross-platform (iOS & Android) mobile ap
 
 ## Project Functions
 * View uncompleted tasks in list form
-* Add new task with text input (must be more than 5 characters long, if not an alert is fired up - click 'Dismiss' to close alert) and 'Add Task' button
-* Delete a task when done by clicking on it
+* Add new task with text input and 'Add Task' button
+* Delete a task when done by clicking on finished task
 
 ## Notes
 * 'Add Task' button displays differently in iOS and Android
+
+## Future Implementation Plans
+* View finished task to allow undo of deleting
+* Add deadlines to tasks
