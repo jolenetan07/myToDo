@@ -11,7 +11,7 @@ export default function Header() {
 
 const styles = StyleSheet.create({
     header: {
-        backgroundColor: 'pink',
+        backgroundColor: 'plum',
         height: 120,
         paddingTop: 60,
         
